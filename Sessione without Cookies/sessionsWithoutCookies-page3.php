@@ -32,7 +32,7 @@
   echo 'Session name: ' . session_name() . '<br>';
   echo 'Session id: ' . session_id() . '<br><br>';
   echo 'SID: ' . SID . '<br><br>';
-  echo "<a href=\"/course/Example23-sessionsWithoutCookies-page2.php\"> Previous page </a><br>";
+  echo "<a href=\"/course/sessionsWithoutCookies-page2.php\"> Previous page </a><br>";
 ?>
 
 </body>
